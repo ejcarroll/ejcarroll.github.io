@@ -6079,13 +6079,13 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #3b4b21 !important;
+  background-color: #485063 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #148f77 !important;
+  background-color: #5d6475 !important;
 }
 
 .bg-secondary {
