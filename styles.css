@@ -5524,12 +5524,12 @@ a.close.disabled {
 }
 
 .modal-img {
-  width: 60%;
+  width: 80%;
 }
 
 @media (min-width: 576px) {
   .modal-dialog {
-    max-width: 500px;
+    max-width: 1000px;
     margin: 1.75rem auto;
   }
 
